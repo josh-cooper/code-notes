@@ -24,6 +24,9 @@
 
 </div>
 
+## Access
+https://josh-cooper.github.io/code-notes/
+
 ## Features
 
 - Notes can:
